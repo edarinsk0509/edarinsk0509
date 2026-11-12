@@ -1,4 +1,8 @@
-# Елена Андреева
+<p align="center">
+  <img src="assets/channel-avatar.png" alt="Аватар канала Профессия РП" width="260">
+</p>
+
+<h1 align="center">Профессия РП / Елена Андреева</h1>
 
 **Руководитель проектов внедрения 1С · DIGI TEX · Самара**
 
